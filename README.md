@@ -38,10 +38,13 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 | Name | Description | Links | Headquarters | Listing | Market Cap / Valuation (Date) |
 | --- | --- | --- | --- | --- | --- |
 | NVIDIA | The world leader in AI computing. Invented the GPU and drives the AI revolution. [Intro](docs/nvidia/README.md) | [URL](https://www.nvidia.com/) | USA | Public: NVDA (NASDAQ) | Approx. $5.40T (as of 2026-06-03) |
-| AMD | Developing the Instinct series GPUs (MI300) as a strong competitor in AI compute. | [URL](https://www.amd.com/) | USA | Public: AMD (NASDAQ) | Approx. $850B (as of 2026-06-03) |
 | Broadcom | Leading provider of custom AI ASICs and high-speed networking for AI clusters. | [URL](https://www.broadcom.com/) | USA | Public: AVGO (NASDAQ) | Approx. $2.25T (as of 2026-06-03) |
-| ARM | Provides the energy-efficient processor architecture powering the world's devices and increasingly AI data centers. | [URL](https://www.arm.com/) | UK | Public: ARM (NASDAQ) | Approx. $370B (as of 2026-06-03) |
+| Samsung Electronics | Global leader in memory and foundry; critical supplier of HBM4 for next-gen AI platforms. | [URL](https://www.samsung.com/) | South Korea | Public: 005930 (KRX) | Approx. $1.55T (as of 2026-06-03) |
+| Micron Technology | Major producer of high-performance HBM3E and HBM4 memory for AI accelerators. | [URL](https://www.micron.com/) | USA | Public: MU (NASDAQ) | Approx. $1.18T (as of 2026-06-03) |
+| SK Hynix | Leading supplier of High Bandwidth Memory (HBM) for AI GPUs. | [URL](https://www.skhynix.com/) | South Korea | Public: 000660 (KRX) | Approx. $1.12T (as of 2026-06-03) |
+| AMD | Developing the Instinct series GPUs (MI300) as a strong competitor in AI compute. | [URL](https://www.amd.com/) | USA | Public: AMD (NASDAQ) | Approx. $850B (as of 2026-06-03) |
 | Intel | Developing Gaudi accelerators and Falcon Shores to compete in the AI hardware space. | [URL](https://www.intel.com/) | USA | Public: INTC (NASDAQ) | Approx. $535B (as of 2026-06-03) |
+| ARM | Provides the energy-efficient processor architecture powering the world's devices and increasingly AI data centers. | [URL](https://www.arm.com/) | UK | Public: ARM (NASDAQ) | Approx. $370B (as of 2026-06-03) |
 | Cerebras | Building the Wafer-Scale Engine, the largest chip ever built, for AI training. | [URL](https://www.cerebras.net/) | USA | Public: CBRS (NASDAQ) | Approx. $62.5B (as of 2026-06-03) |
 
 ### Cloud & Compute Platforms

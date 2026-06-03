@@ -38,10 +38,13 @@
 | 名称 | 说明 | 链接 | 总部 | 上市信息 | 市值/估值（日期） |
 | --- | --- | --- | --- | --- | --- |
 | NVIDIA (英伟达) | 全球 AI 计算领导者，GPU 的发明者，驱动了当前的 AI 革命。 [入门介绍](docs/nvidia/README-CN.md) | [URL](https://www.nvidia.com/) | 美国 | 已上市：NVDA（NASDAQ） | 约 5.40 万亿美元（截至 2026-06-03） |
-| AMD | 开发 Instinct 系列 GPU (MI300)，是 AI 算力领域强有力的竞争者。 | [URL](https://www.amd.com/) | 美国 | 已上市：AMD（NASDAQ） | 约 8500 亿美元（截至 2026-06-03） |
 | Broadcom (博通) | 领先的定制 AI ASIC 和 AI 集群高速网络解决方案提供商。 | [URL](https://www.broadcom.com/) | 美国 | 已上市：AVGO（NASDAQ） | 约 2.25 万亿美元（截至 2026-06-03） |
-| ARM | 提供低功耗处理器架构，驱动全球设备，并越来越多地应用于 AI 数据中心。 | [URL](https://www.arm.com/) | 英国 | 已上市：ARM（NASDAQ） | 约 3700 亿美元（截至 2026-06-03） |
+| Samsung Electronics (三星电子) | 全球存储与代工巨头，为下一代 AI 平台提供关键的 HBM4 芯片。 | [URL](https://www.samsung.com/) | 韩国 | 已上市：005930（KRX） | 约 1.55 万亿美元（截至 2026-06-03） |
+| Micron Technology (美光) | 为 AI 加速器提供高性能 HBM3E 和 HBM4 存储芯片的主要厂商。 | [URL](https://www.micron.com/) | 美国 | 已上市：MU（NASDAQ） | 约 1.18 万亿美元（截至 2026-06-03） |
+| SK Hynix (海力士) | AI GPU 所需的高带宽内存 (HBM) 的领先供应商。 | [URL](https://www.skhynix.com/) | 韩国 | 已上市：000660（KRX） | 约 1.12 万亿美元（截至 2026-06-03） |
+| AMD | 开发 Instinct 系列 GPU (MI300)，是 AI 算力领域强有力的竞争者。 | [URL](https://www.amd.com/) | 美国 | 已上市：AMD（NASDAQ） | 约 8500 亿美元（截至 2026-06-03） |
 | Intel (英特尔) | 开发 Gaudi 加速器和 Falcon Shores，在 AI 硬件领域展开竞争。 | [URL](https://www.intel.com/) | 美国 | 已上市：INTC（NASDAQ） | 约 5350 亿美元（截至 2026-06-03） |
+| ARM | 提供低功耗处理器架构，驱动全球设备，并越来越多地应用于 AI 数据中心。 | [URL](https://www.arm.com/) | 英国 | 已上市：ARM（NASDAQ） | 约 3700 亿美元（截至 2026-06-03） |
 | Cerebras | 构建晶圆级引擎 (WSE)，这是有史以来最大的芯片，专为 AI 训练设计。 | [URL](https://www.cerebras.net/) | 美国 | 已上市：CBRS (NASDAQ) | 约 625 亿美元（截至 2026-06-03） |
 
 ### 云计算与算力平台
