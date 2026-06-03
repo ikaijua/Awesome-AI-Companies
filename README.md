@@ -20,7 +20,6 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 - [AI Development Tools & MLOps](#ai-development-tools--mlops)
 - [Application Layer (SaaS)](#application-layer-saas)
 - [Legal AI](#legal-ai)
-- [Healthcare & Life Sciences AI](#healthcare--life-sciences-ai)
 - [Defense & Aerospace AI](#defense--aerospace-ai)
 - [Autonomous Driving](#autonomous-driving)
 
@@ -82,10 +81,6 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 | Name | Description | Links | Headquarters | Listing | Market Cap / Valuation (Date) |
 | --- | --- | --- | --- | --- | --- |
 | Harvey | Generative AI platform for professional services, primarily legal. | [URL](https://www.harvey.ai/) | USA | Private / not listed | Approx. $11B (reported 2026-03) |
-
-### Healthcare & Life Sciences AI
-| Name | Description | Links | Headquarters | Listing | Market Cap / Valuation (Date) |
-| --- | --- | --- | --- | --- | --- |
 
 ### Defense & Aerospace AI
 | Name | Description | Links | Headquarters | Listing | Market Cap / Valuation (Date) |
