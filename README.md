@@ -20,7 +20,10 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 - [Data Services & Labeling](#data-services--labeling)
 - [AI Development Tools & MLOps](#ai-development-tools--mlops)
 - [Application Layer (SaaS)](#application-layer-saas)
-- [Vertical Industry AI](#vertical-industry-ai)
+- [Legal AI](#legal-ai)
+- [Healthcare & Life Sciences AI](#healthcare--life-sciences-ai)
+- [Defense & Aerospace AI](#defense--aerospace-ai)
+- [Autonomous Driving](#autonomous-driving)
 - [Venture Capital & AI Investors](#venture-capital--ai-investors)
 
 ### Foundation Models
@@ -102,13 +105,25 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 | ElevenLabs | Leading AI audio and voice synthesis platform. | [URL](https://elevenlabs.io/) | USA/Poland | Private / not listed |
 | HeyGen | AI video generation platform for professional spokespeople videos. | [URL](https://www.heygen.com/) | USA | Private / not listed |
 
-### Vertical Industry AI
+### Legal AI
 | Name | Description | Links | Headquarters | Listing |
 | --- | --- | --- | --- | --- |
 | Harvey | Generative AI platform for professional services, primarily legal. | [URL](https://www.harvey.ai/) | USA | Private / not listed |
+
+### Healthcare & Life Sciences AI
+| Name | Description | Links | Headquarters | Listing |
+| --- | --- | --- | --- | --- |
 | Paige | AI for pathology, helping doctors diagnose and treat cancer. | [URL](https://paige.ai/) | USA | Private / not listed |
 | Insilico Medicine | AI-driven drug discovery and development. | [URL](https://insilico.com/) | Hong Kong/USA | Private / not listed |
+
+### Defense & Aerospace AI
+| Name | Description | Links | Headquarters | Listing |
+| --- | --- | --- | --- | --- |
 | Shield AI | Building the world's best AI pilot for defense and aerospace. | [URL](https://shield.ai/) | USA | Private / not listed |
+
+### Autonomous Driving
+| Name | Description | Links | Headquarters | Listing |
+| --- | --- | --- | --- | --- |
 | Waymo | Autonomous driving technology company. | [URL](https://waymo.com/) | USA | Public via Alphabet: GOOGL/GOOG (NASDAQ) |
 
 ### Venture Capital & AI Investors
