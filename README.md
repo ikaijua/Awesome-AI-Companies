@@ -24,7 +24,6 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 - [Healthcare & Life Sciences AI](#healthcare--life-sciences-ai)
 - [Defense & Aerospace AI](#defense--aerospace-ai)
 - [Autonomous Driving](#autonomous-driving)
-- [Venture Capital & AI Investors](#venture-capital--ai-investors)
 
 ### Foundation Models
 | Name | Description | Links | Headquarters | Listing | Market Cap / Valuation (Date) |
@@ -125,13 +124,6 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 | Name | Description | Links | Headquarters | Listing | Market Cap / Valuation (Date) |
 | --- | --- | --- | --- | --- | --- |
 | Waymo | Autonomous driving technology company. | [URL](https://waymo.com/) | USA | Public via Alphabet: GOOGL/GOOG (NASDAQ) | Approx. $2.8T market cap via Alphabet, GOOGL/GOOG (NASDAQ) (as of 2026-06-03) |
-
-### Venture Capital & AI Investors
-| Name | Description | Links | Headquarters | Listing | Market Cap / Valuation (Date) |
-| --- | --- | --- | --- | --- | --- |
-| Andreessen Horowitz (a16z) | Venture capital firm with a huge focus on AI infrastructure and applications. | [URL](https://a16z.com/) | USA | Private / not listed | Not publicly disclosed; private venture firm (as of 2026-06-03) |
-| Sequoia Capital | Leading venture capital firm with extensive investments in the AI space. | [URL](https://www.sequoiacap.com/) | USA | Private / not listed | Not publicly disclosed; private venture firm (as of 2026-06-03) |
-| Y Combinator | Renowned startup accelerator that has funded hundreds of AI companies. | [URL](https://www.ycombinator.com/) | USA | Private / not listed | Not publicly disclosed; private accelerator/investor (as of 2026-06-03) |
 
 ## Contribution
 Contributions are welcome! Please read the [Contribution Guide](CONTRIBUTING.md) for more details.
