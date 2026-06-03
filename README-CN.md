@@ -12,9 +12,9 @@
 这个仓库旨在收录 AI 产业链中的优秀公司。欢迎大家踊跃推荐！
 
 ## 全部分类
+- [底层大模型](#底层大模型)
 - [基础设施 (芯片与硬件)](#基础设施-芯片与硬件)
 - [云计算与算力平台](#云计算与算力平台)
-- [底层大模型](#底层大模型)
 - [AI 安全与对齐](#ai-安全与对齐)
 - [机器人与具身智能](#机器人与具身智能)
 - [数据服务与标注](#数据服务与标注)
@@ -22,6 +22,18 @@
 - [应用层 (SaaS)](#应用层-saas)
 - [垂直行业 AI](#垂直行业-ai)
 - [风险投资与 AI 投资者](#风险投资与-ai-投资者)
+
+### 底层大模型
+| 名称 | 说明 | 链接 | 总部 |
+| --- | --- | --- | --- |
+| OpenAI | ChatGPT 和 GPT-4 的创造者，处于 AGI 研究的最前沿。 [入门介绍](docs/openai/README-CN.md) | [URL](https://openai.com/) | 美国 |
+| Anthropic | AI 安全与研究公司，Claude 系列模型的创造者。 [入门介绍](docs/anthropic/README-CN.md) | [URL](https://www.anthropic.com/) | 美国 |
+| Google DeepMind | 推动 Google AI 突破（如 Gemini 和 AlphaFold）的核心部门。 | [URL](https://deepmind.google/) | 英国/美国 |
+| Meta AI | Llama 开源模型的开发者，极大地推动了开源 AI 社区。 [入门介绍](docs/meta-ai/README-CN.md) | [URL](https://ai.meta.com/) | 美国 |
+| Mistral AI | 欧洲领先的高性能开源模型开发商。 | [URL](https://mistral.ai/) | 法国 |
+| DeepSeek (深度求索) | 中国 AI 实验室，开发了极具性价比且性能领先的开源模型。 [入门介绍](docs/deepseek/README-CN.md) | [URL](https://www.deepseek.com/) | 中国 |
+| Cohere | 为企业提供用于搜索和生成的 AI 模型。 | [URL](https://cohere.com/) | 加拿大 |
+| Moonshot AI (月之暗面) | 中国领先的大模型初创公司，Kimi 助手的创造者。 | [URL](https://www.moonshot.cn/) | 中国 |
 
 ### 基础设施 (芯片与硬件)
 | 名称 | 说明 | 链接 | 总部 |
@@ -45,18 +57,6 @@
 | CoreWeave | 专业的 GPU 云基础设施提供商。 | [URL](https://www.coreweave.com/) | 美国 |
 | Together AI | 用于构建和扩展生成式 AI 模型的云平台。 | [URL](https://www.together.ai/) | 美国 |
 | Replicate | 仅需几行代码即可在云端运行机器学习模型。 | [URL](https://replicate.com/) | 美国 |
-
-### 底层大模型
-| 名称 | 说明 | 链接 | 总部 |
-| --- | --- | --- | --- |
-| OpenAI | ChatGPT 和 GPT-4 的创造者，处于 AGI 研究的最前沿。 [入门介绍](docs/openai/README-CN.md) | [URL](https://openai.com/) | 美国 |
-| Anthropic | AI 安全与研究公司，Claude 系列模型的创造者。 [入门介绍](docs/anthropic/README-CN.md) | [URL](https://www.anthropic.com/) | 美国 |
-| Google DeepMind | 推动 Google AI 突破（如 Gemini 和 AlphaFold）的核心部门。 | [URL](https://deepmind.google/) | 英国/美国 |
-| Meta AI | Llama 开源模型的开发者，极大地推动了开源 AI 社区。 [入门介绍](docs/meta-ai/README-CN.md) | [URL](https://ai.meta.com/) | 美国 |
-| Mistral AI | 欧洲领先的高性能开源模型开发商。 | [URL](https://mistral.ai/) | 法国 |
-| DeepSeek (深度求索) | 中国 AI 实验室，开发了极具性价比且性能领先的开源模型。 [入门介绍](docs/deepseek/README-CN.md) | [URL](https://www.deepseek.com/) | 中国 |
-| Cohere | 为企业提供用于搜索和生成的 AI 模型。 | [URL](https://cohere.com/) | 加拿大 |
-| Moonshot AI (月之暗面) | 中国领先的大模型初创公司，Kimi 助手的创造者。 | [URL](https://www.moonshot.cn/) | 中国 |
 
 ### AI 安全与对齐
 | 名称 | 说明 | 链接 | 总部 |

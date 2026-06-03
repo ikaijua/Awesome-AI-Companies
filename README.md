@@ -12,9 +12,9 @@ English | [中文](README-CN.md)
 This repo collects awesome AI companies across the entire industry chain. Welcome everyone to recommend more outstanding companies!
 
 ## All Categories
+- [Foundation Models](#foundation-models)
 - [Infrastructure (Chips & Hardware)](#infrastructure-chips--hardware)
 - [Cloud & Compute Platforms](#cloud--compute-platforms)
-- [Foundation Models](#foundation-models)
 - [AI Safety & Alignment](#ai-safety--alignment)
 - [Robotics & Embodied AI](#robotics--embodied-ai)
 - [Data Services & Labeling](#data-services--labeling)
@@ -22,6 +22,18 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 - [Application Layer (SaaS)](#application-layer-saas)
 - [Vertical Industry AI](#vertical-industry-ai)
 - [Venture Capital & AI Investors](#venture-capital--ai-investors)
+
+### Foundation Models
+| Name | Description | Links | Headquarters |
+| --- | --- | --- | --- |
+| OpenAI | Creator of ChatGPT and GPT-4, leading the frontier of AGI. [Intro](docs/openai/README.md) | [URL](https://openai.com/) | USA |
+| Anthropic | AI safety and research company, creator of the Claude models. [Intro](docs/anthropic/README.md) | [URL](https://www.anthropic.com/) | USA |
+| Google DeepMind | Merged unit driving Google's AI breakthroughs like Gemini and AlphaFold. | [URL](https://deepmind.google/) | UK/USA |
+| Meta AI | Developer of Llama, the most widely used open-weights foundation model. [Intro](docs/meta-ai/README.md) | [URL](https://ai.meta.com/) | USA |
+| Mistral AI | European leader in efficient, high-performance open-weights models. | [URL](https://mistral.ai/) | France |
+| DeepSeek | Chinese AI lab that develops state-of-the-art open-source models with high efficiency. [Intro](docs/deepseek/README.md) | [URL](https://www.deepseek.com/) | China |
+| Cohere | Provides enterprise-grade AI models for search and generation. | [URL](https://cohere.com/) | Canada |
+| Moonshot AI | Leading Chinese LLM startup, creator of the Kimi assistant. | [URL](https://www.moonshot.cn/) | China |
 
 ### Infrastructure (Chips & Hardware)
 | Name | Description | Links | Headquarters |
@@ -45,18 +57,6 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 | CoreWeave | Specialized GPU cloud infrastructure provider. | [URL](https://www.coreweave.com/) | USA |
 | Together AI | Cloud platform for building and scaling generative AI models. | [URL](https://www.together.ai/) | USA |
 | Replicate | Run machine learning models in the cloud with a few lines of code. | [URL](https://replicate.com/) | USA |
-
-### Foundation Models
-| Name | Description | Links | Headquarters |
-| --- | --- | --- | --- |
-| OpenAI | Creator of ChatGPT and GPT-4, leading the frontier of AGI. [Intro](docs/openai/README.md) | [URL](https://openai.com/) | USA |
-| Anthropic | AI safety and research company, creator of the Claude models. [Intro](docs/anthropic/README.md) | [URL](https://www.anthropic.com/) | USA |
-| Google DeepMind | Merged unit driving Google's AI breakthroughs like Gemini and AlphaFold. | [URL](https://deepmind.google/) | UK/USA |
-| Meta AI | Developer of Llama, the most widely used open-weights foundation model. [Intro](docs/meta-ai/README.md) | [URL](https://ai.meta.com/) | USA |
-| Mistral AI | European leader in efficient, high-performance open-weights models. | [URL](https://mistral.ai/) | France |
-| DeepSeek | Chinese AI lab that develops state-of-the-art open-source models with high efficiency. [Intro](docs/deepseek/README.md) | [URL](https://www.deepseek.com/) | China |
-| Cohere | Provides enterprise-grade AI models for search and generation. | [URL](https://cohere.com/) | Canada |
-| Moonshot AI | Leading Chinese LLM startup, creator of the Kimi assistant. | [URL](https://www.moonshot.cn/) | China |
 
 ### AI Safety & Alignment
 | Name | Description | Links | Headquarters |
