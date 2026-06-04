@@ -14,6 +14,7 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 ## All Categories
 - [Foundation Models](#foundation-models)
 - [Infrastructure (Chips & Hardware)](#infrastructure-chips--hardware)
+- [Optical Communication & Networking](#optical-communication--networking)
 - [Cloud & Compute Platforms](#cloud--compute-platforms)
 - [Robotics & Embodied AI](#robotics--embodied-ai)
 - [Data Services & Labeling](#data-services--labeling)
