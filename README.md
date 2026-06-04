@@ -51,6 +51,15 @@ This repo collects awesome AI companies across the entire industry chain. Welcom
 | ARM | Provides the energy-efficient processor architecture powering the world's devices and increasingly AI data centers. | [URL](https://www.arm.com/) | UK | Public: ARM (NASDAQ) | Approx. $370B (as of 2026-06-03) |
 | Cerebras | Building the Wafer-Scale Engine, the largest chip ever built, for AI training. | [URL](https://www.cerebras.net/) | USA | Public: CBRS (NASDAQ) | Approx. $62.5B (as of 2026-06-03) |
 
+### Optical Communication & Networking
+| Name | Description | Links | Headquarters | Listing | Market Cap / Valuation (Date) |
+| --- | --- | --- | --- | --- | --- |
+| Marvell | Absolute leader in DSP chips for AI optical modules and a key player in custom AI ASICs. | [URL](https://www.marvell.com/) | USA | Public: MRVL (NASDAQ) | Approx. $260B (as of 2026-06-03) |
+| InnoLight | The world's largest optical module supplier, providing 800G/1.6T modules for NVIDIA and Google. | [URL](https://www.innolight.com/) | China | Public: 300308 (SZSE) | Approx. $205B (as of 2026-06-03) |
+| Eoptolink | Leading high-speed optical module manufacturer with strong competitiveness in 1.6T and LPO technology. | [URL](https://www.eoptolink.com/) | China | Public: 300502 (SZSE) | Approx. $110B (as of 2026-06-03) |
+| Coherent | Vertically integrated optical giant with powerful laser chip production capabilities. | [URL](https://www.coherent.com/) | USA | Public: COHR (NYSE) | Approx. $75B (as of 2026-06-03) |
+| Lumentum | Key optical component supplier and core laser chip provider in the NVIDIA supply chain. | [URL](https://www.lumentum.com/) | USA | Public: LITE (NASDAQ) | Approx. $72B (as of 2026-06-03) |
+
 ### Cloud & Compute Platforms
 | Name | Description | Links | Headquarters | Listing | Market Cap / Valuation (Date) |
 | --- | --- | --- | --- | --- | --- |
